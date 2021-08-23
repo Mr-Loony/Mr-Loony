@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mr-Loony
 - 👀 I’m interested in learning C#,Python and Javascript.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on HTML/CSS projects
 - 📫 How to reach me ...
 
